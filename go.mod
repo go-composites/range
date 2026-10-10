@@ -3,19 +3,19 @@ module github.com/go-composites/range
 go 1.27.1
 
 require (
-	github.com/go-composites/array v0.0.0-20260929012314-b34dd2208c46
-	github.com/go-composites/error v0.0.0-20260926002113-8ebf8341ff74
-	github.com/go-composites/number v0.0.0-20261002011611-2545cff635e8
-	github.com/go-composites/result v0.0.0-20260927170344-f2c7344faeef
-	github.com/onsi/ginkgo/v2 v2.33.0
+	github.com/go-composites/array v0.0.0-20261008012822-b187ea4ffff3
+	github.com/go-composites/error v0.0.0-20261004233631-3186f2071cf7
+	github.com/go-composites/number v0.0.0-20261008013308-5fe88346cb16
+	github.com/go-composites/result v0.0.0-20261006020718-14f01380a20a
+	github.com/onsi/ginkgo/v2 v2.33.1
 	github.com/onsi/gomega v1.44.0
 )
 
 require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
-	github.com/go-composites/boolean v0.0.0-20261001005819-7829d550cf44 // indirect
-	github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23 // indirect
-	github.com/go-composites/string v0.0.0-20260929013001-cb2d117dac32 // indirect
+	github.com/go-composites/boolean v0.0.0-20261006020242-6d69b7ea2bb3 // indirect
+	github.com/go-composites/null v0.0.0-20261004234613-b811f56c1c66 // indirect
+	github.com/go-composites/string v0.0.0-20261004232445-a7ad20be796e // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
