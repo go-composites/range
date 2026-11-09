@@ -3,19 +3,19 @@ module github.com/go-composites/range
 go 1.27.1
 
 require (
-	github.com/go-composites/array v0.0.0-20261102010947-14d77d10cf70
-	github.com/go-composites/error v0.0.0-20261031224832-70f51e843a7d
-	github.com/go-composites/number v0.0.0-20261102011408-04856a7fca89
-	github.com/go-composites/result v0.0.0-20261102011533-cd3658257f2b
+	github.com/go-composites/array v0.0.0-20261108005945-6e532871dc66
+	github.com/go-composites/error v0.0.0-20261104015158-766d8cb306ef
+	github.com/go-composites/number v0.0.0-20261108010345-dea3b5f6dffd
+	github.com/go-composites/result v0.0.0-20261106020326-f6bf56cd3d3f
 	github.com/onsi/ginkgo/v2 v2.34.0
 	github.com/onsi/gomega v1.44.0
 )
 
 require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
-	github.com/go-composites/boolean v0.0.0-20261031224651-c0020ce098f2 // indirect
+	github.com/go-composites/boolean v0.0.0-20261106015900-cd109cc63e2f // indirect
 	github.com/go-composites/null v0.0.0-20261031224807-35430d41335f // indirect
-	github.com/go-composites/string v0.0.0-20261017234520-ecd10f637643 // indirect
+	github.com/go-composites/string v0.0.0-20261104015456-201b3a02a10c // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
